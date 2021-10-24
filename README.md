@@ -1,8 +1,8 @@
-1- Genera un nuvo proyecto en visual studio code con la combinación de teclas:
+1- Genera un nuevo proyecto en visual studio code con la combinación de teclas:
 ## Ctrl + shift + p 
 
 2- sigue los pasos y crea los archivos para sus respectivas clases.
 
-3- Ve a la carpeta src en git hub aqui en este repositorio y copia el codigo de cada clase en sus respectivos archivos.
+3- Ve a la carpeta src aqui en este repositorio y copia el código de cada clase en sus respectivos archivos.
 
-#### 4- tambien puedes descargar el proyecto como zip, descomprimirlo y arbrir el proyecto entero en vscode
+### 4- también puedes descargar el proyecto como zip, descomprimirlo y abrir el proyecto entero en vscode
