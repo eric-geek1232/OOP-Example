@@ -5,4 +5,4 @@
 
 3- Ve a la carpeta src aqui en este repositorio y copia el código de cada clase en sus respectivos archivos.
 
-### 4- también puedes descargar el proyecto como zip, descomprimirlo y abrir el proyecto entero en vscode
+### también puedes descargar el proyecto como zip, descomprimirlo y abrir el proyecto entero en vscode
